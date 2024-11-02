@@ -40,10 +40,25 @@ EDA involves exploring the call center data to answer key questions  such as ;
 
 - Show Hour Students Requested Teachers Most
 - Show Hour Classes Held Most
+
+  ![Screenshot 2024-11-02 151547](https://github.com/user-attachments/assets/3638a4f6-4c40-4da2-a20e-236da37e4702)
+
 - Show Tutors Feedback Percentage
+
+  ![Screenshot 2024-11-02 151650](https://github.com/user-attachments/assets/0607de96-a1cb-4884-bd05-7cbb6b4eb7fc)
+
 - Show Period of Day Request Came Most
+
+ ![Screenshot 2024-11-02 151727](https://github.com/user-attachments/assets/55075f55-b4db-431b-b745-e8ee57884ea6)
+
 - Show Number of Classes Taken By Tutors
+
+  ![Screenshot 2024-11-02 151817](https://github.com/user-attachments/assets/c2cef3ee-ee06-4dab-9be4-0cdb709700ad)
+
 - Show Request from Junior And Senior Class
+
+  ![Screenshot 2024-11-02 151851](https://github.com/user-attachments/assets/ec93848f-4ad2-4ea7-b6f6-16c01dd8eefb)
+
 
 ### Data Analysis
 
@@ -85,6 +100,15 @@ Data-Driven Decision Making in Education
 Mandinach, E. B., & Gummer, E. S. (2016). Data Literacy for Educators: Making It Count in Teacher Preparation and Practice. Teachers College Press.
 
 This book discusses how educators can use data to make informed decisions, including understanding limitations and interpreting results accurately.
+
+
+🙂
+☎️
+
+|Heading1|
+|--------|
+|Content|
+|Excel|
 
 
 
